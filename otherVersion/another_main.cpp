@@ -1,7 +1,5 @@
 #include "anotherCommand.hpp"
 
-std::string fileName();
-
 // The client
 int main(int argc, char* argv[]){
 
